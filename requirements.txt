@@ -1,0 +1,6 @@
+gym
+pillow
+moviepy
+imageio
+matplotlib
+plotly
