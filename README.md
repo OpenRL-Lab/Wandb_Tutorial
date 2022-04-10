@@ -2,6 +2,13 @@
 
 wandb是一个免费的，用于记录机器学习训练过程数据的工具。具有用户管理，团队管理，项目管理等功能。
 
+## 0. 环境设置
+
+- Ubuntu or Red Hat
+- tmux
+- Python3
+- `pip install -r requirements.txt`
+
 ## 1. 基础使用方法
 
 该部分的详细教程见：[wandb使用教程(一)：基础用法](https://zhuanlan.zhihu.com/p/493093033)
