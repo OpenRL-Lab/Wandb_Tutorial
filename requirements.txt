@@ -4,3 +4,5 @@ moviepy
 imageio
 matplotlib
 plotly
+torchvision
+dm-launchpad-nightly
