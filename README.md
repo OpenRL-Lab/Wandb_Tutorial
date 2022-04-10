@@ -24,7 +24,7 @@ wandb是一个免费的，用于记录机器学习训练过程数据的工具。
 
 ## 2. 超参数搜索
 
-该部分的详细教程见：[知乎](https://www.zhihu.com/column/c_1494418493903155200)
+该部分的详细教程见：[wandb使用教程(二)：基于Launchpad实现分布式超参搜索](https://zhuanlan.zhihu.com/p/496164470)
 
 在机器学习任务中，通常涉及众多超参数，因此需要对这些超参数进行调整。wandb提供了超参数搜索的功能。然而，wandb更多是
 提供参数搜索安排和可视化的功能，本身并没有提供分布式能力。因此，这里提供了一个结合[Launchpad](https://github.com/deepmind/launchpad)
