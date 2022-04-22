@@ -2,6 +2,8 @@
 
 wandb是一个免费的，用于记录机器学习训练过程数据的工具。具有用户管理，团队管理，项目管理等功能。
 
+- [知乎教程](https://www.zhihu.com/column/c_1494418493903155200)
+
 ## 0. 环境设置
 
 - Ubuntu or Red Hat
@@ -40,7 +42,7 @@ wandb是一个免费的，用于记录机器学习训练过程数据的工具。
 
 ## 3. 数据和模型管理
 
-wandb还提供了数据和模型备份管理的功能，该部分详细教程见：[wandb使用教程(三)：数据与模型管理](https://zhuanlan.zhihu.com/p/496164470)
+wandb还提供了数据和模型备份管理的功能，该部分详细教程见：[wandb使用教程(三)：数据与模型管理](https://zhuanlan.zhihu.com/p/503226955)
 
 - 基础使用例子: [test_artifcat.sh](./artifact/test_artifact.sh)，该例子提供了一个备份MNIST训练数据的例子。
 
