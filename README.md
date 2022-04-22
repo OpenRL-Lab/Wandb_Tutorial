@@ -38,6 +38,12 @@ wandb是一个免费的，用于记录机器学习训练过程数据的工具。
 - 为CNN分类任务搜索dropout超参数: [test_sweep.sh](./sweep/cnn/test_sweep.sh), 该例子提供一个以MNIST分类任务为基础，
 搜索其dropout参数的例子。
 
+## 3. 数据和模型管理
+
+wandb还提供了数据和模型备份管理的功能，该部分详细教程见：[wandb使用教程(三)：数据与模型管理](https://zhuanlan.zhihu.com/p/496164470)
+
+- 基础使用例子: [test_artifcat.sh](./artifact/test_artifact.sh)，该例子提供了一个备份MNIST训练数据的例子。
+
 ## Citing wandb_tutorial
 
 If you use wandb_tutorial in your work, please cite us:

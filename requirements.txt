@@ -7,3 +7,4 @@ matplotlib
 plotly
 torchvision
 dm-launchpad-nightly
+tqdm==4.64.0
