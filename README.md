@@ -46,6 +46,10 @@ wandb还提供了数据和模型备份管理的功能，该部分详细教程见
 
 - 基础使用例子: [test_artifcat.sh](./artifact/test_artifact.sh)，该例子提供了一个备份MNIST训练数据的例子。
 
+## 4. wandb本地部署
+
+wandb还提供了服务器本地部署的功能，该部分详细教程见：[wandb使用教程(四)：wandb本地部署](https://zhuanlan.zhihu.com/p/521663928)
+
 ## Citing wandb_tutorial
 
 If you use wandb_tutorial in your work, please cite us:
