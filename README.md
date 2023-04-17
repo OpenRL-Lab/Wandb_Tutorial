@@ -62,3 +62,8 @@ If you use wandb_tutorial in your work, please cite us:
     howpublished={\url{https://github.com/huangshiyu13/wandb_tutorial}},
 }
 ```
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=huangshiyu13/wandb_tutorial&type=Date)](https://star-history.com/#huangshiyu13/wandb_tutorial&Date)
